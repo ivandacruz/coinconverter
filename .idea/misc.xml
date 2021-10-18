@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/ivand/coinconverter/app/src/main/res/layout/activity_history.xml" value="0.209375" />
-        <entry key="..\:/Users/ivand/coinconverter/app/src/main/res/layout/activity_main.xml" value="0.209375" />
-        <entry key="..\:/Users/ivand/coinconverter/app/src/main/res/layout/item_history.xml" value="0.209375" />
+        <entry key="..\:/Users/ivand/Downloads/coin-converter-master/app/src/main/res/drawable/ic_history.xml" value="0.22552083333333334" />
+        <entry key="..\:/Users/ivand/Downloads/coin-converter-master/app/src/main/res/layout/activity_history.xml" value="0.209375" />
+        <entry key="..\:/Users/ivand/Downloads/coin-converter-master/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/ivand/Downloads/coin-converter-master/app/src/main/res/layout/item_history.xml" value="0.209375" />
+        <entry key="..\:/Users/ivand/Downloads/coin-converter-master/app/src/main/res/menu/main_menu.xml" value="0.209375" />
       </map>
     </option>
   </component>
